@@ -1,0 +1,1 @@
+setup .env file as given in .sample.env file
